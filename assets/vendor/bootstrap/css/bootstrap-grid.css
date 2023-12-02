@@ -670,6 +670,10 @@
     flex: 0 0 auto;
     width: 33.33333333%;
   }
+  .col-lg-455 {
+    flex: 0 0 auto;
+    text-align: center;
+  }
   .col-lg-5 {
     flex: 0 0 auto;
     width: 41.66666667%;
